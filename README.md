@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+<h1 align="center" style="color:#FF5733;">Welcome to My GitHub Profile! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-### About Me
+### <span style="color:#3498DB;">About Me</span>
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 - 💬 Ask me about **Web Development, Python, and Open Source**
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### <span style="color:#2ECC71;">🛠️ Tech Stack</span>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### <span style="color:#E74C3C;">📊 GitHub Stats</span>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nvvdp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -41,7 +41,7 @@
 
 ---
 
-### 🐍 Snake Animation
+### <span style="color:#9B59B6;">🐍 Snake Animation</span>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nvvdp/nvvdp/output/snake.svg" alt="Snake animation" />
@@ -49,7 +49,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### <span style="color:#F1C40F;">🌐 Connect with Me</span>
 
 <div align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /></a>
@@ -60,10 +60,11 @@
 
 ---
 
-### 🚀 Projects
+### <span style="color:#1ABC9C;">🚀 Projects</span>
 
 - [Project 1](#): Description of project 1
 - [Project 2](#): Description of project 2
 - [Project 3](#): Description of project 3
 
 ---
+
